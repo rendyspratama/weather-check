@@ -18,7 +18,7 @@ A simple yet powerful weather service built in Go. Supports both REST API and gR
 
 ---
 
-### ✅ **2. Use Go Design Patterns to Show Expertise**
+### ✅ **2. Use Go Design Patterns**
 We already use **separation of concerns**, but let's explicitly **use some design patterns**:  
 - **Factory Pattern** 🏭 → For creating API clients  
 - **Repository Pattern** 📚 → Future database layer  
